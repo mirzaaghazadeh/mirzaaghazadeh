@@ -7,7 +7,7 @@
 
 ### I am Navid Mirzaaghazadeh
 
-- 🔭 🔭 I'm a PHP Backend Developer 💻 specializing in Laravel ⚡ and API Development 🔗 with over 6 years of experience. I'm also a part-time Bug Bounty Hunter 🐞 and a passionate Cybersecurity Student 🛡️.
+- 🔭 I'm a PHP Backend Developer 💻 specializing in Laravel ⚡ and API Development 🔗 with over 6 years of experience. I'm also a part-time Bug Bounty Hunter 🐞 and a passionate Cybersecurity Student 🛡️.
 
 - 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
 
