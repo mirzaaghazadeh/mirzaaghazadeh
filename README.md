@@ -11,7 +11,7 @@
 
 - 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
 
-- 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
+- 👥 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
 - 📫  How to reach me: use the badges above 😃 or visit my personal website at [Navid.tr](https://navid.tr)
 
