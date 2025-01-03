@@ -1,5 +1,5 @@
 # Hello! 👋
-![Static Badge](https://img.shields.io/badge/Personal_Website-blue?style=flat&link=https%3A%2F%2Fnavid.tr%2F)
+![Static Badge](https://img.shields.io/badge/Personal_Website-blue?style=flat-square&color=%235046e5&link=https%3A%2F%2Fnavid.tr%2F)
 [![Linkedin Badge](https://img.shields.io/badge/-Navid%20Mirzaaghazadeh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirzaaghazadeh)](https://www.linkedin.com/in/mirzaaghazadeh)
 [![Twitter Badge](https://img.shields.io/badge/-@mirzaaghazadeh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/mirzaaghazadeh)](https://twitter.com/mirzaaghazadeh)
 [![StackOverflow Badge](https://img.shields.io/badge/-Navid%20Mirzaaghazadeh-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=[https://stackoverflow.com/users/4064162/piraces](https://stackoverflow.com/users/27583741/navid-mirzaaghazadeh))](https://stackoverflow.com/users/27583741/navid-mirzaaghazadeh)
