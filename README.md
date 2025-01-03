@@ -18,4 +18,6 @@
 - ⚡ I have a blog at https://medium.com/@mirzaaghazadeh/ where I try to post as frequently as I can. Everything I post is tech related and about things I find interesting to explain or to make others know about it.
 
 ## Some of my Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaaghazadeh&layout=compact)
+
 ![Piraces github stats](https://github-readme-stats.vercel.app/api?username=mirzaaghazadeh&show_icons=true)
