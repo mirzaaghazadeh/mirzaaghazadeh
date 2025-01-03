@@ -13,7 +13,7 @@
 
 - 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
-- 📫  How to reach me: use the badges above 😃 or visit my personal website at [navid.tr].
+- 📫  How to reach me: use the badges above 😃 or visit my personal website at [Navid.tr](https://navid.tr).
 
 - ⚡ I have a blog at https://medium.com/@mirzaaghazadeh/ where I try to post as frequently as I can. Everything I post is tech related and about things I find interesting to explain or to make others know about it.
 
