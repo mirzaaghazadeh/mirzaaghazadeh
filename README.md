@@ -15,7 +15,7 @@
 
 - 📫  How to reach me: use the badges above 😃 or visit my personal website at [Navid.tr](https://navid.tr)
 
-- ⚡ I have a blog at ![Static Badge](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&color=black&link=https%3A%2F%2Fmedium.com%2F%40mirzaaghazadeh) where I try to post as frequently as I can. Everything I post is tech related and about things I find interesting to explain or to make others know about it.
+- ⚡ I have a blog at ![Static Badge](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white&link=https%3A%2F%2Fmedium.com%2F%40mirzaaghazadeh) where I try to post as frequently as I can. Everything I post is tech related and about things I find interesting to explain or to make others know about it.
 
 ## Some of my Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaaghazadeh&layout=compact)
