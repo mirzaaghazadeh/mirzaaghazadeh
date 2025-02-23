@@ -7,17 +7,21 @@
 
 ### I am Navid Mirzaaghazadeh
 
-- 🔭 I'm a PHP Backend Developer 💻 specializing in Laravel ⚡ and API Development 🔗 with over 6 years of experience. I'm also a part-time Bug Bounty Hunter 🐞 and a passionate Cybersecurity Student 🛡️.
+- 🔭 I'm a PHP Backend Developer 💻 specializing in Laravel ⚡ and API Development 🔗 with over 6 years of experience.  
+  Additionally, I develop tools in **Go** and **Python** 🐍 for personal use and contributions to the Open Source community.  
 
-- 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
+- 🌱 I'm constantly learning new technologies, experimenting with different programming languages, and building my own projects.  
+  I also enjoy attending tech-related events and engaging with the developer community.  
 
-- 👥 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
+- 👥 I’m open to collaborating on Open Source projects that I find useful or interesting.  
 
-- 📫  How to reach me: use the badges above 😃 or visit my personal website at [Navid.tr](https://navid.tr)
+- 📫 How to reach me: Use the badges above 😃 or visit my personal website at [Navid.tr](https://navid.tr).  
 
-- ⚡ I have a blog at ![Static Badge](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white&link=https%3A%2F%2Fmedium.com%2F%40mirzaaghazadeh) where I try to post as frequently as I can. Everything I post is tech related and about things I find interesting to explain or to make others know about it.
+- ⚡ I share tech-related insights on my blog at  
+  ![Static Badge](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white&link=https%3A%2F%2Fmedium.com%2F%40mirzaaghazadeh).  
+  I try to post regularly about things I find interesting or helpful for the community.  
 
-## Some of my Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaaghazadeh&layout=compact)
+## Some of my Github Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaaghazadeh&layout=compact)  
 
-![Piraces github stats](https://github-readme-stats.vercel.app/api?username=mirzaaghazadeh&show_icons=true)
+![Piraces github stats](https://github-readme-stats.vercel.app/api?username=mirzaaghazadeh&show_icons=true)  
