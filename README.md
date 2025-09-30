@@ -49,5 +49,4 @@ I’m open to:
 
 ## 📊 Github Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaaghazadeh&layout=compact)  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mirzaaghazadeh&show_icons=true)  
+![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
