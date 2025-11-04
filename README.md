@@ -12,7 +12,7 @@
 I’m **Navid Mirzaaghazadeh**, a **Full Stack Tech Builder** with a strong focus on:  
 
 - ⚡ **Backend Development** in **Laravel** (APIs, enterprise-grade apps, custom libraries)  
-- 🔗 **ERP & CRM** implementations with **Odoo** and **Zoho**  
+- 🔗 **ERP & CRM** implementations with **Odoo** 
 - 🌐 **Web Development** with scalable **WordPress plugins** and enterprise solutions  
 
 Over the past **7+ years**, I’ve delivered **50+ projects** across different industries — helping businesses grow with **clean, modular, and scalable technology**.  
@@ -21,7 +21,7 @@ Over the past **7+ years**, I’ve delivered **50+ projects** across different i
 
 ## 🛠️ My Expertise  
 
-- **ERP & CRM Systems** → Odoo & Zoho customizations, integrations, automations  
+- **ERP & CRM Systems** → Odoo customizations, integrations, automations  
 - **Laravel Libraries** → API integrations, package development, database optimization  
 - **WordPress Plugins** → Custom plugin dev, WooCommerce extensions, performance optimization  
 - **Enterprise Solutions** → Scalable, secure, and automation-driven systems  
