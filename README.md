@@ -55,6 +55,5 @@ I care about:
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Navid_Mirzaaghazadeh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirzaaghazadeh)
-[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27583741/navid-mirzaaghazadeh)
 [![Website](https://img.shields.io/badge/-navid.tr-5046e5?style=flat-square&logo=google-chrome&logoColor=white)](https://navid.tr)
 [![Email](https://img.shields.io/badge/-hi@navid.tr-8B89CC?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@navid.tr)
