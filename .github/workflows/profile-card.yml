@@ -1,0 +1,41 @@
+name: Profile card
+
+on:
+  schedule:
+    - cron: "17 4 * * *" # daily at 04:17 UTC (the 3D-contrib job runs at 18:00)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render card
+        run: python card/generate.py
+        env:
+          # ACCESS_TOKEN (a PAT with read access to your repos) adds private repos
+          # to Commits / Lines of Code; without it only public repos are counted.
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add dark_mode.svg light_mode.svg card/stats.json card/cache.json
+          if git commit -m "Update profile card"; then
+            git pull --rebase
+            git push
+          fi
